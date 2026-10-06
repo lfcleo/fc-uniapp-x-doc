@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# Environment variables
+.env
+.env.local
+
+# Logs & temp files
+*.log
+.cache/
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.sln
+*.sw?
