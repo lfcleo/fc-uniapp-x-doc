@@ -18,10 +18,10 @@ hero:
       link: /guide/problem
     - theme: alt
       text: GitHub
-      link: https://github.com/lfcleo/fc-uniapp-x
+      link: https://github.com/fc-code-space/fc-uniapp-x
     - theme: alt
       text: Gitee
-      link: https://gitee.com/lfcleo/fc-uniapp-x
+      link: https://gitee.com/fc-code-space/fc-uniapp-x
 
 features:
   - icon: 🚀

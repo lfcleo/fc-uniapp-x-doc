@@ -105,8 +105,8 @@ export default defineConfig({
         },
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/lfcleo/fc-uniapp-x' },
-            { icon: 'gitee', link: 'https://gitee.com/lfcleo/fc-uniapp-x' },
+            { icon: 'github', link: 'https://github.com/fc-code-space/fc-uniapp-x' },
+            { icon: 'gitee', link: 'https://gitee.com/fc-code-space/fc-uniapp-x' },
         ]
     }
 })
