@@ -13,7 +13,7 @@ export default defineConfig({
         nav: [
             { text: '指南', link: '/guide/introduce/install' },
             { text: '组件', link: '/component/introduce' },
-            { text: '插件市场', link: 'https://ext.dcloud.net.cn/plugin?id=26616' },
+            // { text: '插件市场', link: 'https://ext.dcloud.net.cn/plugin?id=26616' },
         ],
 
         outline: 'deep',    // 侧边栏目录深度
